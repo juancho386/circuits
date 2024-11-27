@@ -9,4 +9,5 @@
 ## Cableado
 PIN2 (GPIO1) -> BTN -> PIN36(3V3_OUT)
 
+![foto](../assets/rpiPico_1btn.jpg)
 
