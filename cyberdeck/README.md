@@ -22,9 +22,9 @@ La voy a empezar a diseñar cuando tenga todo lo demás funcionando. Posiblement
 ### Cómo alimentar de corriente el Pico
 Todavía es temprano porque no decidí si conectarlo por USB o por GPIO. En el caso de que se conecte por GPIO:
 
-Raspberry Pi Zero       Raspberry Pi Pico
-------------------       -----------------
-Pin 4 (5V)         ---> Pin 40 (VBUS)
-Pin 6 (GND)        ---> Pin 38 (GND)
+| Raspberry Pi Zero || Raspberry Pi Pico |
+| --- || --- |
+| Pin 4 (5V) | > | Pin 40 (VBUS) |
+| Pin 6 (GND) | > | Pin 38 (GND) |
 
 
