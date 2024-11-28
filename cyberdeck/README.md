@@ -1,12 +1,12 @@
 # Cyberdeck
-- La idea es hacer un Raspberry Pi Zero 2 con una pantalla y un teclado QWERTY con un Linux.
+- La idea es hacer un Raspberry Pi Zero 2W con una pantalla y un teclado QWERTY con un Linux.
 - La pantalla va a ser HDMI para no necesitar drivers y poder cambiar la distribución de Linux sin tener que preocuparme por binarios.
 - El único inconveniente es el teclado.
 - Para eso, voy a usar un Raspberry Pi Pico con un PCB con interruptores.
 
 
 ## Componentes principales
-- [Raspberry Pi Zero 2]()
+- [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 - [Screen 4" HDMI Waveshare](https://www.waveshare.com/wiki/4inch_HDMI_LCD_(H)) Adicionalmente tiene touch-screen (con lapiz) con drivers.
 - [Ethernet/USB HUB HAT (B) Waveshare](https://www.waveshare.com/eth-usb-hub-hat-b.htm)
 - [Conector HDMI (L) Waveshare](https://www.waveshare.com/product/accessories/adapters-cables-antennas/hdmi/hdmi-adapter-vertical.htm)
