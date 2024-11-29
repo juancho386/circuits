@@ -1,8 +1,8 @@
 # Cyberdeck
 - La idea es hacer un Raspberry Pi Zero 2W con una pantalla y un teclado QWERTY con un Linux.
 - La pantalla va a ser HDMI para no necesitar drivers y poder cambiar la distribución de Linux sin tener que preocuparme por binarios.
-- El único inconveniente es el teclado.
-- Para eso, voy a usar un Raspberry Pi Pico con un PCB con interruptores.
+- El único inconveniente es el teclado. Voy a usar un Raspberry Pi Pico con un PCB con interruptores.
+- Voy a tratar de hacer la carcaza en 3D. Opcional: engraved de madera cortada a laser. TBD
 
 
 ## Componentes principales
@@ -15,6 +15,10 @@
 
 ## Teclado
 En desarrollo
+- Proyecto en KiCad 6
+- Consiste básicamente en u Raspberry Pico, muchos switches y tal vez alguna led (a confirmar)
+- Los archivos van a estar para descargar aca cuando lo termine
+- Los recursos de RPI Pico son de https://github.com/ncarandini/KiCad-RP-Pico (gracias)
 
 ## Carcaza
 La voy a empezar a diseñar cuando tenga todo lo demás funcionando. Posiblemente necesite extensores para los conectores como HDMI, Audio, USB y Power.
