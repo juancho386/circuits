@@ -1,4 +1,4 @@
-./k1/k1-backups
-./k1/k1-backups/*
-./k1/fp-info-cache
+k1/k1-backups
+k1/k1-backups/*
+k1/fp-info-cache
 
