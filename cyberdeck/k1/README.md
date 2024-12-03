@@ -11,8 +11,11 @@ K1 es mi primer circuito que mando a imprimir. Aprendí de tutoriales en youtube
 
 ### El PCB
 De adelante
+
 ![de frente](./k1.front.jpg)
+
 De atras
+
 ![de atras](./k1.back.jpg)
 
 #### Lista de materiales
