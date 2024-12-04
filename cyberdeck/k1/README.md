@@ -1,7 +1,11 @@
 # K1: QWERTY keyboard para Pico
-K1 es mi primer circuito que mando a imprimir. Aprendí de tutoriales en youtube y me animé. Es un teclado QWERTY con todas las teclas standard. El proyecto consta de 2 elementos:
+
+Teclado QWERTY con todas las teclas standard. El proyecto consta de 2 elementos:
 - Circuito integrado PCB.
 - Código en Arduino para programar un Raspberry Pico y emular el teclado.
+
+> [!CAUTION]
+> K1 es mi primer circuito que mando a imprimir. Aprendí de tutoriales en youtube y me animé. Puede contener errores de todo tipo. No me hago responsable de las consecuencias de ensamblarlo.
 
 ## Features:
 - Tiene el ancho justo para complementar una pantalla de 4" (aproximadamente 9.6cm)
