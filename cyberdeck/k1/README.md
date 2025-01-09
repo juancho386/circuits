@@ -16,11 +16,15 @@ Teclado QWERTY con todas las teclas standard. El proyecto consta de 2 elementos:
 ### El PCB
 De adelante
 
-![de frente](./k1.front.jpg)
+![de frente](./assets/k1.front.jpg)
 
 De atras
 
-![de atras](./k1.back.jpg)
+![de atras](./assets/k1.back.jpg)
+
+v1.0 built
+
+![v1.0 built](./assets/k1.v1.0.built.gif)
 
 #### Lista de materiales
 - Raspberry Pi Pico
